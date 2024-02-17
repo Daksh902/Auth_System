@@ -22,13 +22,14 @@ This is a simple authentication system built with Node.js, Express, and MongoDB.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/Auth-System.git
-Navigate into the project directory:
+   git clone (https://github.com/Daksh902/Auth_System/tree/main)
 
+
+## Navigate into the project directory:
 
 ## cd Auth-System
-Install dependencies:
-npm install
+   - Install dependencies:
+   - npm install
 
 
 ## Create a .env file in the root directory and add the following environment variables:

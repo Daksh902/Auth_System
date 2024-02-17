@@ -1,3 +1,4 @@
+
 # Auth System
 
 This is a simple authentication system built with Node.js, Express, and MongoDB.
@@ -66,5 +67,3 @@ index.js: Entry point of the application
 server.js: File to start the server
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-go
